@@ -1,6 +1,6 @@
 const robotron = document.querySelector("#robotron")
 
-robotron.addEventListener("cleventoick", (evento) => {
+robotron.addEventListener("click", (evento) => {
     console.log(evento)
 });
 

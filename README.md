@@ -29,6 +29,22 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-4/index.html">Ex. #4</a>
 
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-5/index.html">Ex. #5</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-6/index.html">Ex. #6</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-7/index.html">Ex. #7</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-8/index.html">Ex. #8</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-9/index.html">Ex. #9</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-10/index.html">Ex. #10</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-11/index.html">Ex. #11</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-12/index.html">Ex. #12</a>
+
  <hr>
 
  Confira os 7 Exercícos que desenvolvi por meio do projeto da Alura 7DaysOsCode em Lógica com JS.

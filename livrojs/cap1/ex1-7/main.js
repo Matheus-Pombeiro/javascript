@@ -6,6 +6,6 @@ const taxaGarcom = jantar * 0.1;    // 10%
 const totalAPagar = jantar + taxaGarcom;
 
 // Mostrando os valores ao cliente
-alert(`O valor do jantar foi R$${jantar} e a gorjeta do garçom de 10% foi R$${taxaGarcom}.`);
-alert(`O total a pagar pelo seu jantar é R$${totalAPagar}`);
+alert(`O valor do jantar foi R$ ${jantar.toFixed(2)} e a gorjeta do garçom de 10% foi R$ ${taxaGarcom.toFixed(2)}.`);
+alert(`O total a pagar pelo seu jantar é R$ ${totalAPagar.toFixed(2)}`);
 alert("Obrigado. Volte sempre!");

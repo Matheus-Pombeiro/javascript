@@ -5,11 +5,11 @@
 
  Projetos de estudos desenvolvidos por meio dos cursos de Front-end da Alura.
 
- <a href="https://matheus-pombeiro.github.io/javascript/exercicio-um/index.html">Ex. #1</a>
+ <p>Nota: os exs. a respeito dos conceitos básicos de JS e manipulação de arrays foram realizados inteiramente por meio de um documento JS com acesso ao terminal (node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
- <a href="https://matheus-pombeiro.github.io/javascript/exercicio-dois/index.html">Ex. #2</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/winter-is-coming/index.html">Winter is Coming</a>
 
- <p>Nota: o ex. sobre manipulação de arrays foi realizado inteiramente por meio de um documento JS, portanto não possui uma página na web. Para conferi-lo acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <a href="https://matheus-pombeiro.github.io/javascript/manipulando-elementos-dom/index.html">Manipulando Elementos no DOM</a>
 
  <a href="https://matheus-pombeiro.github.io/javascript/alura-midi/index.html">Alura Midi</a>
 
@@ -47,11 +47,17 @@
 
  <hr>
 
- Confira os 7 Exercícos que desenvolvi por meio do projeto da Alura 7DaysOsCode em Lógica com JS.
+ Confira os 7 Exercícos que desenvolvi por meio do projeto da Alura 7DaysOfCode em Lógica com JS.
 
  <p>Nota: o 1º ex. referente ao 1º dia do projeto foi realizado inteiramente por meio de um documento JS, portanto não possui uma página na web. Para conferi-lo acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no GitHub.</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-2/index.html">Dia #2</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-3/index.html">Dia #3</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-4/index.html">Dia #4</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-5/index.html">Dia #5</a>
 
  <hr>
 

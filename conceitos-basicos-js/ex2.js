@@ -13,3 +13,6 @@ const Idade = 30; // Variável escrita com letra maiúscula. --> Tome muito cuid
 console.log(`idade = ${idade}`);
 
 console.log(`Idade = ${Idade}`);
+
+// Não declare variáveis sem a atribuição de uma palavra reservada como 'var', 'let' ou 'const'. Exemplo:
+// idade = 20; --> Não faça isso.

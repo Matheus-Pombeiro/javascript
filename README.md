@@ -17,7 +17,7 @@
 
  <hr>
 
- Exemplos e Exercícos práticos desenvolvidos por meio dos meus estudos com o livro "Lógica de Programação e algoritmos com JavaScript" do autor Edécio F. Iepsen.
+ Exemplos e Exercícos práticos desenvolvidos por meio dos meus estudos com o livro "Lógica de Programação e Algoritmos com JavaScript" do autor Edécio F. Iepsen.
 
  <p>Capítulo 1</p>
 
@@ -44,6 +44,23 @@
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-11/index.html">Ex. #11</a>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-12/index.html">Ex. #12</a>
+
+ 
+ <p>Capítulo 2</p>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-1/index.html">Ex. #1</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-2/index.html">Ex. #2</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-3/index.html">Ex. #3</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-4/index.html">Ex. #4</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-5/index.html">Ex. #5</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-6/index.html">Ex. #6</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-7/index.html">Ex. #7</a>
 
  <hr>
 

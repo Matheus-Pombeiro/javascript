@@ -11,6 +11,7 @@ frm.addEventListener("submit", (e) => {
     // Calcula o valor da comida, sendo que 1 quilo é equivalente à 1000 gramas
     const calcPreco = (preco / 1000) * peso;
 
+    // Retorna a resposta sobre o valor a pagar
     respValorAPagar.innerText = `Valor a Pagar R$: ${calcPreco.toFixed(2)}`;
 
     e.preventDefault();

@@ -6,7 +6,7 @@ const respDuracao = document.querySelector(".resposta__duracao");
 // Cria um "ouvinte" de evento, acionado quando o botão submit for clicado
 frm.addEventListener("submit", (e) => {
     const titulo = frm.inTitulo.value; // Obtém o valor do input titulo
-    const duracao = frm.inDuracao.value; // Obtém o valor do input duração
+    const duracao = Number(frm.inDuracao.value); // Obtém o valor do input duração
 
     const horas = Math.floor(duracao / 60); // Divide a duracao por 60 e arredonda para baixo
     const minutos = duracao % 60; // Por meio do resto da divisão é possível obter os minutos

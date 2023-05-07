@@ -7,4 +7,4 @@ frm.addEventListener("submit", (e) => {
     const nome = frm.inNome.value; // Obtém o nome digitado no form
     resp.innerText = `Olá, ${nome}`;  // Exibe a resposta do programa
     e.preventDefault(); // Evita o envio automático do form
-})
+});

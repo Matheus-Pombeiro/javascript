@@ -29,3 +29,20 @@ while (cont < listaDeDestinos.length) {
 }
 
 console.log("Destino existe: ", destinoExiste);
+
+if (podeComprar && destinoExiste) {
+    console.log("Boa Viagem!");
+
+} else {
+    console.log("Desculpe. Houve algum erro.");
+
+}
+
+for (i = 0; i < listaDeDestinos.length; i ++) {  // O 'for' é dividido em três partes: 1º declaração da variáve; 2º condição para a execução do programa (true or false); e 3º incremento da variável.
+
+    if (listaDeDestinos[i] == destino) {
+        destinoExiste = true;
+        
+    }
+
+}

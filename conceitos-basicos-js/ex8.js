@@ -38,11 +38,11 @@ if (podeComprar && destinoExiste) {
 
 }
 
-for (i = 0; i < listaDeDestinos.length; i ++) {  // O 'for' é dividido em três partes: 1º declaração da variáve; 2º condição para a execução do programa (true or false); e 3º incremento da variável.
+// for (i = 0; i < listaDeDestinos.length; i ++) {  // O 'for' é dividido em três partes: 1º declaração da variáve; 2º condição para a execução do programa (true or false); e 3º incremento da variável.
 
-    if (listaDeDestinos[i] == destino) {
-        destinoExiste = true;
+//     if (listaDeDestinos[i] == destino) {
+//         destinoExiste = true;
         
-    }
+//     }
 
-}
+// }

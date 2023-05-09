@@ -78,6 +78,8 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-6/index.html">Dia #6</a>
 
+ <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-7/index.html">Dia #7</a>
+
  <hr>
 
  Confira também o meu <a href="https://matheus-pombeiro.github.io/html-css">repositório</a> de HTML e CSS no Github.

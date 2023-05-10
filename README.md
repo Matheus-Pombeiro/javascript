@@ -64,7 +64,7 @@
 
  <p>Capítulo 3</p>
 
- <p>Nota: os exs. a respeito dos conceitos básicos de JS foram realizados inteiramente por meio de um documento JS com acesso ao terminal (node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <p>Nota: os exs. a respeito do cap. 3 do livro de JS foram realizados inteiramente por meio de um documento JS com acesso ao terminal (node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
  <hr>
 

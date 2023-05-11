@@ -5,9 +5,9 @@ const prompt = require("prompt-sync")();
 const salario = Number(prompt("Qual o valor do salário do(a) funcionário(a)? R$: "));
 const tempoDeServico = Number(prompt("Há quanto(s) ano(s) ele(a) trabalha na empresa? "));
 
-// Processa os dados (cálculo)
+// Processa os dados (cálculos)
 const quadrienio = Math.floor(tempoDeServico / 4);
-const percentualDeIncremento = (salario * quadrienio) / 100;
+const percentualDeIncremento = (quadrienio * 1 / 100) * salario;
 const novoSalario = salario + percentualDeIncremento;
 
 // Saída dos dados

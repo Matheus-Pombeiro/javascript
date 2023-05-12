@@ -69,6 +69,8 @@
  <p>Capítulo 4</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-1/index.html">Ex. #1</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-2/index.html">Ex. #2</a>
  
  <hr>
 

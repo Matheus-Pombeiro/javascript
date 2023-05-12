@@ -71,6 +71,14 @@
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-1/index.html">Ex. #1</a>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-2/index.html">Ex. #2</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-3/index.html">Ex. #3</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-4/index.html">Ex. #4</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-5/index.html">Ex. #5</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-6/index.html">Ex. #6</a>
  
  <hr>
 

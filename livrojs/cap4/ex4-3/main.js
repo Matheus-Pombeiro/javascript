@@ -14,10 +14,7 @@ switch (bairro) {
         taxaEntrega = 5.00;
         break;
     
-    case "Fragata": 
-        taxaEntrega = 4.00;
-        break;
-
+    case "Fragata": // Declara o mesmo valor para os dois cases
     case "Três Vendas": 
         taxaEntrega = 7.00;
         break;

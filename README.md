@@ -79,6 +79,16 @@
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-5/index.html">Ex. #5</a>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-6/index.html">Ex. #6</a>
+
+ <p>Nota: os exs. 7, 8 e 9 a respeito do cap. 4 do livro de JS foram realizados inteiramente por meio de um documento JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-10/index.html">Ex. #10</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-11/index.html">Ex. #11</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-12/index.html">Ex. #12</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-13/index.html">Ex. #13</a>
  
  <hr>
 

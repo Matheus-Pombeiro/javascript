@@ -45,7 +45,6 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-12/index.html">Ex. #12</a>
 
- 
  <p>Capítulo 2</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-1/index.html">Ex. #1</a>

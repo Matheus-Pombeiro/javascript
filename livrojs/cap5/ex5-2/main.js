@@ -21,7 +21,7 @@ frm.addEventListener("submit", (e) => {
 
     }
 
-    // Dentro do loop, a var vai de 'numero' até '2' com vírgula, e aqui foi acrescentado o número '1' à contagem, mas desta vez com '.' no final. Isso corrige o problema da vírgula e impede que o programa fique muito pesado, pois se tivésse sido usado um 'if' para resolver tal problema aí sim o programa ficaria pesado.
+    // Dentro do loop, a var vai de 'numero' até '2' com vírgula, e aqui foi acrescentado o número '1' à contagem,   mas desta vez com '.' no final. Isso corrige o problema da vírgula e impede que o programa fique muito pesado, pois se tivésse sido usado um 'if' para resolver tal problema aí sim o programa ficaria pesado.
     decrescao = decrescao + i + ".";
 
     // Exibe a resposta para o usuário

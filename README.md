@@ -98,6 +98,10 @@
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-3/index.html">Ex. #3</a>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-4/index.html">Ex. #4</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-5/index.html">Ex. #5</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-6/index.html">Ex. #6</a>
  
  <hr>
 

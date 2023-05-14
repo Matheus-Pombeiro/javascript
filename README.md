@@ -92,6 +92,12 @@
  <p>Capítulo 5</p>
  
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-1/index.html">Ex. #1</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-2/index.html">Ex. #2</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-3/index.html">Ex. #3</a>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-4/index.html">Ex. #4</a>
  
  <hr>
 

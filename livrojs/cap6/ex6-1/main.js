@@ -28,13 +28,9 @@ frm.addEventListener("submit", (e) => {
 
     }
 
-    // Exibe a lista de pacientes para o usuário
+    // Exibe a lista de pacientes na página, limpa o conteúdo do 'form' e posiciona o cursor no campo
     respListaDosPacientes.innerText = lista;
-
-    // Limpa o conteúdo do formulário
     frm.inPaciente.value = "";
-
-    // Posiciona o cursor no campo
     frm.inPaciente.focus();
 })
 
@@ -54,7 +50,7 @@ frm.btUrgencia.addEventListener("click", () => {
     const nome = frm.inPaciente.value;
     pacientes.unshift(nome);
 
-    // Declara a var lista com uma string vazia "" para concatenar os pacientes
+    // Declara a var 'lista' com uma string vazia "" para concatenar os pacientes
     let lista = "";
 
     // Método 'forEach()' aplicado ao vetor 'pacientes'
@@ -73,12 +69,12 @@ frm.btAtender.addEventListener("click", () => {
     if (pacientes.length == 0) {
 
         alert("Não há pacientes na lista de espera...");
-        frm.inPaciente.focus();
-        return;
+        frm.inPaciente.focus();     // Posiciona o cursor no campo inPaciente
+        return;                     // Retorna ao 'form'
 
     }
 
-    // Remove do início da fila e obtém nome
+    // Remove do início da fila e obtém o nome
     const atender = pacientes.shift();
 
     // Exibe o nome do paciente em atendimento

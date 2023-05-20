@@ -5,7 +5,7 @@
 
  Projetos de estudos desenvolvidos por meio dos cursos de Front-end da Alura.
 
- <p>Nota: os exs. a respeito dos conceitos básicos de JS e manipulação de arrays foram realizados inteiramente por meio de um documento JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <p>Nota: os exs. a respeito dos conceitos básicos de JS e manipulação de arrays foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/winter-is-coming/index.html">Winter is Coming</a>
 
@@ -63,7 +63,7 @@
 
  <p>Capítulo 3</p>
 
- <p>Nota: os exs. a respeito do cap. 3 do livro de JS foram realizados inteiramente por meio de um documento JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <p>Nota: os exs. a respeito do cap. 3 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
  <p>Capítulo 4</p>
 
@@ -79,7 +79,7 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-6/index.html">Ex. #6</a>
 
- <p>Nota: os exs. 7:9 a respeito do cap. 4 do livro de JS foram realizados inteiramente por meio de um documento JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <p>Nota: os exs. 7:9 a respeito do cap. 4 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-10/index.html">Ex. #10</a>
 
@@ -105,13 +105,13 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-7/index.html">Ex. #7</a>
 
- <p>Nota: os exs. 8:13 a respeito do cap. 5 do livro de JS foram realizados inteiramente por meio de um documento JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <p>Nota: os exs. 8:13 a respeito do cap. 5 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
  
  <hr>
 
  <p>Capítulo 6</p>
  
- <p>Nota: os exs. 001:005 a respeito do cap. 6 do livro de JS foram realizados inteiramente por meio de um documento JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <p>Nota: os exs. 001:005 a respeito do cap. 6 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-1/index.html">Ex. #1</a>
 

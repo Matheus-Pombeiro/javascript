@@ -109,9 +109,15 @@
  
  <hr>
 
- Confira os 7 Exercícos que desenvolvi por meio do projeto da Alura 7DaysOfCode em Lógica com JS.
+ <p>Capítulo 6</p>
+ 
+ <p>Nota: os exs. 001:005 a respeito do cap. 6 do livro de JS foram realizados inteiramente por meio de um documento JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
- <p>Nota: o 1º ex. referente ao 1º dia do projeto foi realizado inteiramente por meio de um documento JS, portanto não possui uma página na web. Para conferi-lo acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no GitHub.</p>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-1/index.html">Ex. #1</a>
+
+ Confira os 7 Exercícos que desenvolvi por meio do projeto da Alura 7DaysOfCode em Lógica de Programação com JS.
+
+ <p>Nota: o ex. 1 referente ao 1º dia do projeto foi realizado inteiramente por meio de um documento JS, portanto não possui uma página na web. Para conferi-lo acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no GitHub.</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-2/index.html">Dia #2</a>
 

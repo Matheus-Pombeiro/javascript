@@ -10,5 +10,8 @@ let pacientes = ["João", "Sofia"];
 pacientes = ["Ana", ...pacientes];      // Adiciona "Ana" ao início do vetor
 pacientes = [...pacientes, "Maria"];    // Adiciona "Maria" ao final do vetor
 
+// Declara o vetor 'pacientes2' e atribui o vetor 'pacientes' a ele
+const pacientes2 = [...pacientes];      // Ou const pacientes2 = pacientes.slice()
+
 // Exibe o vetor 'pacientes'
 console.log(pacientes);

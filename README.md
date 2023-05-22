@@ -111,7 +111,7 @@
 
  <p>Capítulo 6</p>
  
- <p>Nota: os exs. 001:0015 a respeito do cap. 6 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <p>Nota: os exs. 001:0020 a respeito do cap. 6 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-1/index.html">Ex. #1</a>
 

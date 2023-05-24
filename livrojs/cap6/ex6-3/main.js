@@ -87,3 +87,34 @@ frm.btFiltrar.addEventListener("click", () => {
     respDados.innerText = `Carros até R$: ${maximo.toFixed(2)}\n${"-".repeat(40)}\n${lista}`;
 
 })
+
+// 'Escuta' o 'click' em 'btSimular'
+frm.btSimular.addEventListener("click", () => {
+
+    // Declara a var 'desconto'
+    const desconto = Number(prompt("Percentual de desconto: "));
+
+    // Se a var 'desconto' receber um valor inválido
+    if (desconto == 0 || isNaN(desconto)) {
+
+        return;
+
+    }
+
+    // Declara e processa o vetor 'carroDesc'
+    const carroDesc = carros.map(aux => ({modelo: aux.modelo, preco: aux.preco - (aux.preco * desconto / 100)}));
+
+    // Declara a var 'lista' com uma string vazia
+    let lista = "";
+
+    // Percorre o vetor 'carroDesc'
+    for (const carro of carroDesc) {
+
+        lista += `${carro.modelo} - R$: ${carro.preco.toFixed(2)}\n`;
+
+    }
+
+    // Exibe a resposta para o usuário
+    respDados.innerText = `Carros com desconto: ${desconto}%\n${"-".repeat(40)}\n${lista}`;
+    
+})

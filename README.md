@@ -127,7 +127,7 @@
 
  <p>Capítulo 7</p>
 
- <p>Nota: o ex. 1 a respeito do cap. 7 do livro de JS foi realizado inteiramente por meio de documento JS com acesso ao terminal (Node.js), portanto não possui página na web. Para conferi-lo acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ <p>Nota: o ex. 1 e 3 a respeito do cap. 7 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-2/index.html">Ex. #2</a>
 

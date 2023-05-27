@@ -106,8 +106,6 @@
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-7/index.html">Ex. #7</a>
 
  <p>Nota: os exs. 8:13 a respeito do cap. 5 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
- 
- <hr>
 
  <p>Capítulo 6</p>
  
@@ -126,6 +124,12 @@
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-6/index.html">Ex. #6</a>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-7/index.html">Ex. #7</a>
+
+ <p>Capítulo 7</p>
+
+ <p>Nota: o ex. 1 a respeito do cap. 7 do livro de JS foi realizado inteiramente por meio de documento JS com acesso ao terminal (Node.js), portanto não possui página na web. Para conferi-lo acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-2/index.html">Ex. #2</a>
 
  <hr>
 

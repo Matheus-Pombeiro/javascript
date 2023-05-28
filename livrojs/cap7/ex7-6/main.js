@@ -31,7 +31,7 @@ frm.addEventListener("submit", (e) => {
 
     // Verifica se não possui símbolos ou "_"
     if (!senha.match(/[\W|_]/g)) {
-        erros.push("possuir símbolos (no mínimo, 1");       // Adiciona dados ao vetor
+        erros.push("possuir símbolos (no mínimo, 1)");       // Adiciona dados ao vetor
     }
 
     // Se o vetor está vazio (segnifica que não foram encontrados erros)

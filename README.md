@@ -143,6 +143,12 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-13/index.html">Ex. #13</a>
 
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-14/index.html">Ex. #14</a>
+
+ <p>Capítulo 8</p>
+
+ <p>Nota: o ex. 1 a respeito do cap. 8 do livro de JS foi realizado inteiramente por meio de um documento JS com acesso ao terminal (Node.js), portanto não possui página na web. Para conferi-lo acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+
  <hr>
 
  Confira os 7 Exercícos que desenvolvi por meio do projeto da Alura 7DaysOfCode em Lógica de Programação com JS.

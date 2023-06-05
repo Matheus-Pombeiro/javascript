@@ -28,7 +28,7 @@ function incluir() {
 // Declara a 'function' 'lstar()'
 function listar() {
     titulo("---< Lista de Vinhos Cadastrados >---");                        // Exibe o título
-    console.log("Marca............... Tipo................ Preço R$:");      // Exibe uma mensagem de suport
+    console.log("Marca............... Tipo................ Preço R$:");     // Exibe uma mensagem de suport
 
     // Percorre o vetor para exibir todos os vinhos
     for (const vinho of vinhos) {
@@ -36,12 +36,69 @@ function listar() {
     }
  }
 
+//  Declara a 'function' 'pesquisar'
+function pesquisar() {
+    titulo("---< Pesquisa por Tipo de Vinho >---");                         // Exibe o título
+    console.log("Marca............... Tipo................ Preço R$:");     // Exibe uma mensagem de suport  
+    
+    const pesq = prompt("Tipo: ");      // Lê o tipo de vinho
+    let contador = 0;                   // Declara uma var para auxiliar na contagem 
+
+    for (const vinho of vinhos) {       // Percorre o vetor 'vinhos'
+
+        // Se o tipo de vinho pesquisado estiver incluso na var 'tipo' que por sua vez está inclusa no vetor 'vinhos'
+        if (vinho.tipo.toUpperCase().includes(pesq.toUpperCase())) {    
+            
+            // Exibe a listagem dos vinhos pesquisados
+            console.log(`${vinho.marca.padEnd(20)} ${vinho.tipo.padEnd(20)} ${vinho.preco.toFixed(2).padStart(9)}`);
+
+            contador++;     // Se entrou no 'if' ncrementa a var 'contador'
+
+        }
+    }
+
+    // Se percorreu todos os itens do vetor 'vinhos' e não encontrou nenhum tipo de vinho pesquisado
+    if (contador == 0) {
+        console.log(`Obs.: Não há vinhos cadastrados do tipo "${pesq}"`);       // Exibe uma mensagem negativa
+    }
+}
+
+// Declara a 'function' 'calcularMedia'
+function calcularMedia() {
+    titulo("---< Média e Destaques do Cadastro de Vinhos >---");        // Exibe o título
+
+    const num = vinhos.length;                              // Obtém o tamanho do vetor 'vinhos'
+    if (num == 0) {                                         // Se o vetor estiver vazio
+        console.log("Obs.: Não há Vinhos Cadastrados");     // Exibe uma mensagem negativa
+        return;                                             // retorna
+    }
+
+    let total = 0;                              // Declara uma var para acumular o total
+    for (const vinho of vinhos) {               // Percorre o vetor
+        total += vinho.preco;                   // Soma e acumula o preço de cada elemento do vetor
+    }
+
+    const media = total / num;          // Calcula a média dos preços dos vinhos
+
+    const vinhos2 = [...vinhos];        // Cria uma cópia do vetor 'vinhos'
+
+    vinhos2.sort((a, b) => a.preco - b.preco);      // Ordena por preço
+
+    const menor = vinhos2[0];           // Obtém o vinho com o menor preço
+    const maior = vinhos2[num - 1];     // Obtém o vinho com o maior preço
+
+    console.log(`Preço Médio dos Vinhos R$: ${media.toFixed(2)}`);                  // Exibe o preço médio dos vinhos
+    console.log(`Menor Valor R$: ${menor.preco.toFixed(2)} - ${menor.marca}`);      // Exibe o menor preço dos vinhos e a marca
+    console.log(`Maior Valor R$: ${maior.preco.toFixed(2)} - ${maior.marca}`);      // Exibe o maior valor dos vinhos e a marca
+}
+
 // --------------- Programa Principal ---------------
 
 // Declara um loop
 do {
 
     titulo("---< Cadastro de Vinhos >---");     // Exibe o título
+    
 
     // Opções de Escolha
     console.log("1. Inclusão de Vinhos");
@@ -58,7 +115,7 @@ do {
     } else if (opcao == 3) {
         pesquisar();
     } else if (opcao == 4) {
-        calcularMeda();
+        calcularMedia();
     } else if (opcao == 5) {
         break;
     } else {

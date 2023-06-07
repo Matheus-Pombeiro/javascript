@@ -12,7 +12,7 @@ frm.addEventListener("submit", (e) => {
     const sobrenome = obterSobrenome(nome);     // Obtém a 'function' 'obterSobrenome'
     const vogais = contarVogais(nome);          // Obtém a 'function' 'contarVogais'
 
-    if (nomeCompleto == true) {                                                                         // Se o nome estiver completo...
+    if (nomeCompleto) {                                                                         // Se o nome estiver completo...
         respSenha.innerText = "Senha Inicial: " + sobrenome + vogais.toString().padStart(2, "0");       // Exibe a senha
     } else {                                                                                            // Senão...
         respSenha.innerText = "Erro... O nome está incompleto";                                         // Exibe um alerta
@@ -20,21 +20,7 @@ frm.addEventListener("submit", (e) => {
 
 })
 
-const validarNome = (nome) => {
-
-    const partes = nome.split(" ");     // Obtém as partes do nome do aluno
-
-    let completo;               // Declara uma var vazia
-
-    if (partes.length < 2) {    // Se o nome do aluno não tiver sobrenome...
-        completo = false;       // a var recebe o valor 'false'
-    } else {                    // Senão...
-        completo = true;        // a var recebe o valor 'true'
-    }
-    
-    return completo;            // Retorna 'completo' como 'true' or 'false'
-
-}
+const validarNome = (nome) => nome.includes(" ");       // Verifica se o nome está completo
 
 const obterSobrenome = (nome) => {
 
@@ -50,13 +36,12 @@ const contarVogais = (nome) => {
 
     let contador = 0;                   // Declara uma variável para contar o nº de vogais
 
-    for (let i = 0; i < tam; i++) {     // Cria um loop para auxiliar no processamento dos dados
-
-        // Cria uma condição para contar as vogais do nome do aluno
-        if (nome.charAt(i) == "a" || nome.charAt(i) == "e" || nome.charAt(i) == "i" || nome.charAt(i) == "o" || nome.charAt(i) == "u") {
-            contador++;     // Aumenta 'contador'
+    for (const letra of nome) {                 // Percorre o vetor
+        const letraUC = letra.toUpperCase();    // Obtém as letras do nome e as transforma em maiúscula
+        // Se a letra do nome for uma vogal...
+        if (letraUC == "A" || letraUC == "E" || letraUC == "I" || letraUC == "O" || letraUC == "U") {
+            contador++;     // Incrementa o contador
         }
-
     }
 
     return contador;        // Retorna 'contador'

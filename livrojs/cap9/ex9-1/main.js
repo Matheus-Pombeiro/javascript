@@ -44,7 +44,7 @@ const verificarClube = () => {
         } else if (clube == "Pelotas") {
             frm.rbPelotas.checked = true;
         } else if (clube == "Farroupilha") {
-            frm.rbFarroupilha.checked == true;
+            frm.rbFarroupilha.checked = true;
         }
 
         trocarClube();      // Chama a função 'trocarClube' para trocar a imagem e as cores do site

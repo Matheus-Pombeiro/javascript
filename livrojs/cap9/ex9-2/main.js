@@ -3,6 +3,30 @@ const frm = document.querySelector("form");
 const imgClube = document.querySelector("#imgClube");
 const divTitulo = document.querySelector("#divTitulo");
 const inRadios = document.querySelectorAll("input");        // Obtém todos os 'inputs' do documento por meio do 'querySelectorAll'
+const respVisitas = document.querySelectorAll("h5")[1];
+
+// Declara uma função para contar as visitas
+const contarVisitas = () => {
+
+    let contador = 0;
+
+    // Declara uma condicional para verificar o contador
+    if (localStorage.getItem("lojaContador")) {                         
+        contador = Number(localStorage.getItem("lojaContador"));
+    }
+
+    contador++;     // Incrementa o contador
+
+    // Exibe mensagem de acordo com o número de visitas do usuário ao site
+    if (contador == 1) {
+        respVisitas.innerText = "Muito Bem-Vindo! Esta é a sua primeira visita ao nosso site."
+    } else {
+        respVisitas.innerText = `Que bom que você voltou! Esta é a sua visita de número ${contador} ao nosso site.`
+    }
+
+    localStorage.setItem("lojaContador", contador);
+
+}
 
 // Declara uma função para receber a troca de clube
 const trocarClube = () => {
@@ -64,6 +88,8 @@ const verificarClube = () => {
         trocarClube();      // Chama a função 'trocarClube' para trocar a imagem e as cores do site
 
     }
+
+    contarVisitas();        // Chama a função 'contarVisitas' para exibir o número de visitas do usuário ao site
 
 }
 

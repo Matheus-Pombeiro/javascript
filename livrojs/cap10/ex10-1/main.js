@@ -73,7 +73,7 @@ frm.btRetirar.addEventListener("click", () => {
 
     // Solicita a confirmação (exibindo o conteúdo da tag 'h5' selecionada)
     if (confirm(`Confirma a Exclusão de "${tarefas[aux].innerText}"?`)) {
-        dvQuadro.removeChild(tarefas[aux]);                                     // Remove um dos filhos de 'divQuadro' na posição 'aux'
+        dvQuadro.removeChild(tarefas[aux]);     // Remove um dos filhos de 'divQuadro' na posição 'aux'
     }
 
 })

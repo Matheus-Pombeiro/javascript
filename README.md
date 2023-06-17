@@ -177,6 +177,8 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-2/index.html">Ex. #2</a>
 
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-3/index.html">Ex. #3</a>
+
  <hr>
 
  Confira os 7 Exercícos que desenvolvi por meio do projeto da Alura 7DaysOfCode em Lógica de Programação com JS.

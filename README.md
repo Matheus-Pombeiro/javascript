@@ -183,7 +183,7 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-5/index.html">Ex. #5</a>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-5/index.html">Ex. #6</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-6/index.html">Ex. #6</a>
 
  <hr>
 

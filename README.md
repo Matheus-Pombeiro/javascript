@@ -15,11 +15,7 @@
 
  <hr>
 
- Exemplos e Exercícos práticos desenvolvidos por meio dos meus estudos com o livro "Lógica de Programação e Algoritmos com JavaScript" do autor Edécio F. Iepsen.
-
- <p>Nota: Os exercícios dos capítulos 1 ao 9 não constam aqui por motivo de praticidade, mas estão todos disponíveis em meu repositório público de JavaScript no Github. Confira!</p>
-
- <p>Capítulo 10</p>
+ <p>Principais exercícos práticos desenvolvidos por meio dos meus estudos com o livro "Lógica de Programação e Algoritmos com JavaScript" do autor Edécio F. Iepsen.</p>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-1/index.html">Tarefas do Dia</a>
 
@@ -33,17 +29,11 @@
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-6/index.html">Copa do Brasil</a>
 
- <p>Capítulo 11</p>
-
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-1/index.html">Jockey Club - Controle de Apostas</a>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-2/index.html">Teatro: Show Musical - Reserva de Poltronas</a>
 
  <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-3/index.html">Jogo "Descubra a Palavra"</a>
-
- <hr>
-
- <p>Confira os 7 exercícos que desenvolvi por meio do projeto da Alura <a href="https://github.com/Matheus-Pombeiro/javascript/tree/main/seven-days-of-code-alura-js">7DaysOfCode em Lógica de Programação com JS</a>.</p>
 
  <hr>
 

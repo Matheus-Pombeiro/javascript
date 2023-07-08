@@ -45,22 +45,8 @@
 
  <hr>
 
- Confira os 7 Exercícos que desenvolvi por meio do projeto da Alura 7DaysOfCode em Lógica de Programação com JS.
-
- <p>Nota: o ex. 1 referente ao 1º dia do projeto foi realizado inteiramente por meio de um documento JS, portanto não possui uma página na web. Para conferi-lo acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no GitHub.</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-2/index.html">Dia #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-3/index.html">Dia #3</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-4/index.html">Dia #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-5/index.html">Dia #5</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-6/index.html">Dia #6</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/seven-days-of-code-alura-js/dia-7/index.html">Dia #7</a>
+ <p>Confira os 7 exercícos que desenvolvi por meio do projeto da Alura <a href="https://github.com/Matheus-Pombeiro/javascript/tree/main/seven-days-of-code-alura-js">7DaysOfCode em Lógica de Programação com JS</a>.</p>
 
  <hr>
 
- Confira também o meu <a href="https://matheus-pombeiro.github.io/html-css">repositório</a> de HTML e CSS no Github.
+ <p>Confira também o meu <a href="https://matheus-pombeiro.github.io/html-css">repositório</a> de HTML e CSS no Github.</p>

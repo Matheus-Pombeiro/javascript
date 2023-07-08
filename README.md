@@ -19,179 +19,29 @@
 
  Exemplos e Exercícos práticos desenvolvidos por meio dos meus estudos com o livro "Lógica de Programação e Algoritmos com JavaScript" do autor Edécio F. Iepsen.
 
- <p>Capítulo 1</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-1/index.html">Ex. #1</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-2/index.html">Ex. #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-3/index.html">Ex. #3</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-4/index.html">Ex. #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-5/index.html">Ex. #5</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-6/index.html">Ex. #6</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-7/index.html">Ex. #7</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-8/index.html">Ex. #8</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-9/index.html">Ex. #9</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-10/index.html">Ex. #10</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-11/index.html">Ex. #11</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap1/ex1-12/index.html">Ex. #12</a>
-
- <p>Capítulo 2</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-1/index.html">Ex. #1</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-2/index.html">Ex. #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-3/index.html">Ex. #3</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-4/index.html">Ex. #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-5/index.html">Ex. #5</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-6/index.html">Ex. #6</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap2/ex2-7/index.html">Ex. #7</a>
-
- <p>Capítulo 3</p>
-
- <p>Nota: os exs. a respeito do cap. 3 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
-
- <p>Capítulo 4</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-1/index.html">Ex. #1</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-2/index.html">Ex. #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-3/index.html">Ex. #3</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-4/index.html">Ex. #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-5/index.html">Ex. #5</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-6/index.html">Ex. #6</a>
-
- <p>Nota: os exs. 7:9 a respeito do cap. 4 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-10/index.html">Ex. #10</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-11/index.html">Ex. #11</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-12/index.html">Ex. #12</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap4/ex4-13/index.html">Ex. #13</a>
-
- <p>Capítulo 5</p>
- 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-1/index.html">Ex. #1</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-2/index.html">Ex. #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-3/index.html">Ex. #3</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-4/index.html">Ex. #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-5/index.html">Ex. #5</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-6/index.html">Ex. #6</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap5/ex5-7/index.html">Ex. #7</a>
-
- <p>Nota: os exs. 8:13 a respeito do cap. 5 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
-
- <p>Capítulo 6</p>
- 
- <p>Nota: os exs. 001:0024 a respeito do cap. 6 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-1/index.html">Ex. #1</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-2/index.html">Ex. #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-3/index.html">Ex. #3</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-4/index.html">Ex. #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-5/index.html">Ex. #5</a>
- 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-6/index.html">Ex. #6</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap6/ex6-7/index.html">Ex. #7</a>
-
- <p>Capítulo 7</p>
-
- <p>Nota: os exs. 1, 3, 7, 9, 10 e 11 a respeito do cap. 7 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-2/index.html">Ex. #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-4/index.html">Ex. #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-5/index.html">Ex. #5</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-6/index.html">Ex. #6</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-8/index.html">Ex. #8</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-12/index.html">Ex. #12</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-13/index.html">Ex. #13</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap7/ex7-14/index.html">Ex. #14</a>
-
- <p>Capítulo 8</p>
-
- <p>Nota: os exs. 1, 3 e 5 a respeito do cap. 8 do livro de JS foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap8/ex8-2/index.html">Ex. #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap8/ex8-4/index.html">Ex. #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap8/ex8-6/index.html">Ex. #6</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap8/ex8-7/index.html">Ex. #7</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap8/ex8-8/index.html">Ex. #8</a>
-
- <p>Capítulo 9</p>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap9/ex9-1/index.html">Ex. #1</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap9/ex9-2/index.html">Ex. #2</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap9/ex9-3/index.html">Ex. #3</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap9/ex9-4/index.html">Ex. #4</a>
-
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap9/ex9-5/index.html">Ex. #5</a>
+ <p>Nota: Os exercícios dos capítulos 1 ao 9 não constam aqui por motivo de praticidade, mas estão todos disponíveis em meu repositório público de JavaScript no Github. Confira!</p>
 
  <p>Capítulo 10</p>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-1/index.html">Ex. #1</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-1/index.html">Tarefas do Dia</a>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-2/index.html">Ex. #2</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-2/index.html">Vamos Brincar de Dinheiro?</a>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-3/index.html">Ex. #3</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-3/index.html">Meus Filmes Favoritos</a>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-4/index.html">Ex. #4</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-4/index.html">Velas de Aniversário</a>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-5/index.html">Ex. #5</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-5/index.html">Nome Colorido</a>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-6/index.html">Ex. #6</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap10/ex10-6/index.html">Copa do Brasil</a>
 
-  <p>Capítulo 11</p>
+ <p>Capítulo 11</p>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-1/index.html">Ex. #1</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-1/index.html">Jockey Club - Controle de Apostas</a>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-2/index.html">Ex. #2</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-2/index.html">Teatro: Show Musical - Reserva de Poltronas</a>
 
- <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-3/index.html">Ex. #3</a>
+ <a href="https://matheus-pombeiro.github.io/javascript/livrojs/cap11/ex11-3/index.html">Jogo "Descubra a Palavra"</a>
 
  <hr>
 

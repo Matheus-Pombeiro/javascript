@@ -37,4 +37,4 @@
 
  <hr>
 
- <p>Confira também o meu repositório de <a href="https://matheus-pombeiro.github.io/html-css">HTML e CSS</a> no Github.</p>
+ <p>Confira também os meus repositórios de <a href="https://matheus-pombeiro.github.io/html-css">HTML e CSS</a> e <a href="https://matheus-pombeiro.github.io/projetos-pessoais/">Projetos Pessoais</a> no Github.</p>

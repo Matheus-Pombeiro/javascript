@@ -49,4 +49,4 @@
 
  <hr>
 
- <p>Confira também o meu <a href="https://matheus-pombeiro.github.io/html-css">repositório</a> de HTML e CSS no Github.</p>
+ <p>Confira também o meu repositório de <a href="https://matheus-pombeiro.github.io/html-css">HTML e CSS</a> no Github.</p>

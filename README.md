@@ -1,11 +1,9 @@
 # javascript
- Curso de Javascript
+ Curso de JavaScript
 
  Estou apredendo a criar sites e gerenciar meus repositórios.
 
- Projetos de estudos desenvolvidos por meio dos cursos de Front-end da Alura.
-
- <p>Nota: os exs. a respeito dos conceitos básicos de JS e manipulação de arrays foram realizados inteiramente por meio de documentos JS com acesso ao terminal (Node.js), portanto não possuem páginas na web. Para conferi-los acesse o meu <a href="https://github.com/Matheus-Pombeiro/javascript">repositório</a> de JavaScript no Github.</p>
+ Projetos de estudo desenvolvidos por meio dos cursos de Front-end da Alura.
 
  <a href="https://matheus-pombeiro.github.io/javascript/winter-is-coming/index.html">Winter is Coming</a>
 
